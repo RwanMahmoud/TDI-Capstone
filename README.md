@@ -8,7 +8,20 @@ This project aims to analyze location data of the available commercial listings 
 
 2-	Using City of Toronto APl to add neighborhoods features (demographics, urban mobility, safety, etc.)
 
+##### Subway stations (the radius of the circle marker reflects the avg. daily riders)
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/52165152/68085572-4d38a300-fe10-11e9-82fb-1fac5cb887a2.png">
+
+##### example of the average crime rates in different neighborhoods 
+<img width="399" alt="image" src="https://user-images.githubusercontent.com/52165152/68085590-807b3200-fe10-11e9-9d78-87508d2b6cb8.png">
+
+
 3-	Using Foursquare API to collect information about the surrouding venues of each listing such as the average rating and number of check-ins
+
+##### example of one listing (red) and the coffee shops (blue) within 500 meters from that listing
+<img width="399" alt="image" src="https://user-images.githubusercontent.com/52165152/68085604-a30d4b00-fe10-11e9-87f9-5d5cdc377c97.png">
+
+
+
 
 
 
