@@ -5,12 +5,16 @@ This project aims to analyze location data of the available commercial listings 
 
 ### Data Ingestion:
 1-	Scrapping spacelist.ca to find the available retail listings in Toronto.
+
 2-	Using City of Toronto APl to add neighborhoods features (demographics, urban mobility, safety, etc.)
+
 3-	Using Foursquare API to collect information about the surrouding venues of each listing such as the average rating and number of check-ins
+
 
 
 ### Regression Model
 The model consists of 26 features. After scaling the features we use Gradient Boosting regressor to train model. The model resulted in R-squared value of 0.35. From the  26 features and by looking to the features importance it appeared that:
+
 •	Number of cafes within 500m
 
 •	The distance to the nearest subway station
